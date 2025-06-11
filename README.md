@@ -3,6 +3,11 @@
 🎥 VidIntelliSense: Revolutionizing Video Content Understanding with AI
 VidIntelliSense is an AI-powered tool that transforms YouTube lectures and video content into structured, subject-specific notes. Designed for students, educators, and self-learners, it ensures fast, private, and high-quality video summarization without relying on cloud-based services.
 
+Demo Video:
+
+https://github.com/user-attachments/assets/82ad6cf9-a007-4800-aa6b-2da4a4bc7ad3
+
+
 🚀 Features
 
 🎯 Multilingual Support using Whisper (OpenAI) for accurate transcription.
@@ -30,3 +35,5 @@ LLaMA 2 / Gemini – Text summarization
 youtube-transcript-api – Transcript extraction
 
 LangChain, Haystack, PyTorch – Backend pipeline
+
+
